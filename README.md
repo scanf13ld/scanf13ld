@@ -1,9 +1,5 @@
 welcome
 ---
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical)
-<br>
----
 currently developing with <br>
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -19,6 +15,8 @@ talk to me if you want <br>
 
 ---
 <!--
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical)
+
 **scanf13ld/scanf13ld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
