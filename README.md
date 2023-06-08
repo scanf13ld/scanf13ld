@@ -8,7 +8,7 @@ currently developing with <br>
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby_On_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-learning about
+learning about <br>
 ![tRPC](https://img.shields.io/badge/-tRPC-5A9?style=flat-square&logo=trpc&logoColor=white)
 
 talk to me if you want <br>
