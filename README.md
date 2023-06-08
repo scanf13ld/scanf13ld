@@ -5,9 +5,11 @@ currently developing with <br>
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![tRPC](https://img.shields.io/badge/-tRPC-5A9?style=flat-square&logo=trpc&logoColor=white)
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby_On_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+learning about
+![tRPC](https://img.shields.io/badge/-tRPC-5A9?style=flat-square&logo=trpc&logoColor=white)
 
 talk to me if you want <br>
 ![Linkedin Badge](https://img.shields.io/badge/-scanf13ld-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scanf13ld/)
