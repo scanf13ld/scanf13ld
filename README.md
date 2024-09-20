@@ -8,10 +8,6 @@ currently developing with <br>
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby_On_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-talk to me if you want <br>
-![Linkedin Badge](https://img.shields.io/badge/-scanf13ld-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scanf13ld/)
-![Mail Badge](https://img.shields.io/badge/-c.shane-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.shane@wustl.edu)
-
 ---
 <!--
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical)
